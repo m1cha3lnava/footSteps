@@ -1,7 +1,7 @@
 let mongoose = require("mongoose");
 let db = require("../API/models");
 
-mongoose.connect("mongodb://localhost/footPrints", {
+.connect(process.env.MONGODB_URI || "mongodb://localhost/footPrints", {
   useNewUrlParser: true,
   useFindAndModify: false
 });

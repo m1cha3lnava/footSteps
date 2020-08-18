@@ -2,7 +2,6 @@
 
 # footprints
 
-![badmath](https://img.shields.io/github/contributors/diegocordoba87/footSteps)
 
 Even as the world around us is increasingly distant and divided, there are threads that keep us connected: our stories. Footprints is a mobile first application leveraging a geo-location API to connect users to those who have gone before. When a user enters a specific area, they are presented with a story from another random user and may in turn leave their own to be discovered by the next visitor. 
 
@@ -30,7 +29,7 @@ Footprints enables users to collect and leave stories known as footprints. These
 
 For local installation:
 
-[Fork the repo from github](https://github.com/diegocordoba87/footSteps). Install npm dependencies and run seeds. Run npm start for localhost access.
+[Fork the repo from github](https://github.com/m1cha3lnava/footSteps). Install npm dependencies and run seeds. Run npm start for localhost access.
 
 ---
 
