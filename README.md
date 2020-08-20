@@ -35,7 +35,7 @@ For local installation:
 
 ## Usage
 
-[Access the deployed app on heroku here](https://frozen-citadel-82754.herokuapp.com/)
+[Access the deployed app on heroku here](https://rocky-woodland-66255.herokuapp.com/)
 
 A new user can create a profile, or returning users can log in. 
 
